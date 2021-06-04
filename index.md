@@ -14,8 +14,8 @@
 <meta name="dc.rights" content="United Nations © Copyright 2020">
 <meta property="og:title" content="Welcome to the United Nations">
 <meta property="og:url" content="http://www.un.org">
-<meta property="og:image" content="https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418_960_720.jpg">
-<meta property="og:image:secure_url" content="hhttps://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418_960_720.jpg">
+<meta property="og:image" content="https://cdn.pixabay.com/photo/2020/05/16/16/43/book-5178205_1280.jpg">
+<meta property="og:image:secure_url" content="https://cdn.pixabay.com/photo/2020/05/16/16/43/book-5178205_1280.jpg">
 <link rel="stylesheet" href="https://www.un.org/en/events/global-assets/bootstrap-3.3.5-dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://www.un.org/en/events/global-assets/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
@@ -33,8 +33,8 @@
 </head>
 
 <body style="">
-<div id="full-screen">   <img id="bg-img" class="bg img-responsive" src="https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418_960_720.jpg" alt="Peacekeepers from the UN Mission in Mali conduct street patrols on election day in Gao, (2018). Photo MINUSMA/Marco Dormino."> 
-  <img id="bg-img-mobile" class="img-responsive" src="https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418_960_720.jpg" alt="Peacekeepers from the UN Mission in Mali conduct street patrols on election day in Gao, (2018). Photo MINUSMA/Marco Dormino.">
+<div id="full-screen">   <img id="bg-img" class="bg img-responsive" src="https://cdn.pixabay.com/photo/2020/05/16/16/43/book-5178205_1280.jpg" alt="Peacekeepers from the UN Mission in Mali conduct street patrols on election day in Gao, (2018). Photo MINUSMA/Marco Dormino."> 
+  <img id="bg-img-mobile" class="img-responsive" src="https://cdn.pixabay.com/photo/2020/05/16/16/43/book-5178205_1280.jpg" alt="Peacekeepers from the UN Mission in Mali conduct street patrols on election day in Gao, (2018). Photo MINUSMA/Marco Dormino.">
   <div class="top-right-question animated16 fadeInUpBig" aria-hidden="true"></div>
   <div class="top-right-question-mobile more animated16 fadeInUpBig" aria-hidden="true"></div>
   <div class="bottom-right-c animated16 fadeInDownBig" aria-hidden="true"></div>
